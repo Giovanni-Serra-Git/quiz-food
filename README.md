@@ -1,4 +1,4 @@
-# Quiz Food
+# Quiz Dishes
 An application with typical dishes from different countries with an integrated rating system.
 
 # Live Demo
