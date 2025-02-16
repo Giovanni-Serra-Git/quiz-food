@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the typical Italian dish with pasta and tomato?",
+      "options": ["Lasagna", "Spaghetti with tomato", "Risotto", "Pizza"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Japanese dish with raw fish?",
+      "options": ["Sushi", "Ramen", "Tempura", "Sashimi"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the Mexican dish with tortilla and meat?",
+      "options": ["Burrito", "Taco", "Nachos", "Fajitas"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the French dish with stewed meat and wine?",
+      "options": ["Ratatouille", "Coq au vin", "Bouillabaisse", "Quiche"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Indian dish with rice and spices?",
+      "options": ["Biryani", "Curry", "Samosa", "Naan"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the Spanish dish with rice and seafood?",
+      "options": ["Paella", "Tortilla", "Gazpacho", "Croquetas"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the Greek dish with meat cooked on a spit?",
+      "options": ["Moussaka", "Souvlaki", "Gyros", "Pita"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the German dish with roast pork?",
+      "options": ["Bratwurst", "Wiener Schnitzel", "Sauerkraut", "Schweinshaxe"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the Chinese dish with noodles and meat?",
+      "options": ["Dim Sum", "Chow Mein", "Peking Duck", "Ramen"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Egyptian dish with fava beans and garlic?",
+      "options": ["Koshari", "Falafel", "Molokhia", "Fattah"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}
