@@ -9,7 +9,7 @@ https://quiz-food.netlify.app/
 React.js ⚛️  
 React Router  
 Tailwind CSS  
-Redux Toolkit  
+useReducer  
 JSON Server  
 
 # Installation
